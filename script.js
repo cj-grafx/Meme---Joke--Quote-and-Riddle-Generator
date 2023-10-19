@@ -117,7 +117,6 @@ const memes = [
 ];
 
 const jokes = [
-  "This statement",
   "Eight bytes walk into a bar.  The bartender asks, “Can I get you anything?” “Yeah,” reply the bytes.  “Make us a double.”",
   "There are only 10 kinds of people in this world: those who know binary and those who don’t.",
   "All programmers are playwrights, and all computers are lousy actors.",
